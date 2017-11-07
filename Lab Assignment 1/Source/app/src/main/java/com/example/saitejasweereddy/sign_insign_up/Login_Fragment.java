@@ -137,7 +137,7 @@ public class Login_Fragment extends Fragment implements OnClickListener {
                 fragmentManager
                         .beginTransaction()
                         .setCustomAnimations(R.anim.right_enter, R.anim.left_out)
-                        .replace(R.id.frameContainer,
+                        .replace(R.id.button3,
                                 new ForgotPassword(),
                                 Utils.ForgotPassword_Fragment).commit();
                 break;
@@ -147,7 +147,7 @@ public class Login_Fragment extends Fragment implements OnClickListener {
                 fragmentManager
                         .beginTransaction()
                         .setCustomAnimations(R.anim.right_enter, R.anim.left_out)
-                        .replace(R.id.frameContainer, new SignUp_Fragment(),
+                        .replace(R.id.button4, new SignUp_Fragment(),
                                 Utils.SignUp_Fragment).commit();
                 break;
         }
