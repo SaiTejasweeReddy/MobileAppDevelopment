@@ -1,6 +1,6 @@
 # MobileAppDevelopment
 
-InClassExercise 7: https://github.com/SaiTejasweeReddy/MobileAppDevelopment/wiki/ICE-7
+InClass Exercise 7: https://github.com/SaiTejasweeReddy/MobileAppDevelopment/wiki/ICE-7
 
 Lab Assignment 1: https://github.com/SaiTejasweeReddy/MobileAppDevelopment/wiki/Lab-Assignment-1
 
